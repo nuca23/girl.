@@ -1,0 +1,117 @@
+body{
+    left: -85.43px;
+    top: 0px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 42.06%, rgba(0, 0, 0, 0.1) 100%), radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.15) 100%), url(pexels-anastasiya-gepp-2036644.jpg);
+    background-image:url(pexels-anastasiya-gepp-2036644.png);
+    background-size: cover;
+}
+.container1{
+    min-width: 1288px;
+    margin-inline: auto;
+    padding-top: 40px;
+    padding-right: 20px;
+     display: flex;
+     justify-content: space-between;
+}
+.img1{
+
+}
+.img2{
+ width: 30px;
+ height: 30px;
+}
+h4{
+right: 0%;
+bottom: 0%;
+font-family: 'Libre Baskerville';
+font-style: italic;
+font-weight: 400;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.text1{
+    width: 929px;
+height: 87px;
+font-family: 'Libre Baskerville';
+font-style: italic;
+font-weight: 400;
+font-size: 70px;
+line-height: 87px;
+/* identical to box height */
+align-items: center;
+color: #FFFFFF;
+max-width: 929px;
+margin-inline: auto;
+text-align: center;
+margin-top: 180px;
+}
+h3{
+    width: 224px;
+height: 37px;
+font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 37px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-left: 620px;
+}
+h5{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+color: #FFFFFF;
+/* Inside auto layout */
+flex: none;
+order: 2;
+padding-left: 680px;
+}
+h6{
+width: 588px;
+height: 19px;
+font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+/* identical to box height */
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+color: #FFFFFF;
+padding-left: 430px;
+}
+.button1{
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin-left: 540px;
+    box-sizing: border-box;
+    width: 347px;
+height: 44px;
+border: 1px solid #FFFFFF;
+color: white;
+}
+.sign-up{
+    width: 123px;
+height: 44px;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+font-weight: 700;
+font-size: 16px;
+}
+
